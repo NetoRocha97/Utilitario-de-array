@@ -1,1 +1,1 @@
-# Utilitario-de-array
+Demonstração dos utilitários do Array em JS
